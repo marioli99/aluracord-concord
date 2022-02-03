@@ -8,8 +8,6 @@
 
 Projeto feito na Imersão React 4 da @alura com @omariosouto e o @peas
 
-Todo o passo a passo do projeto pode ser acompanhado no arquivo [anotações.md](/anotações.md)
-
 ## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
