@@ -1,11 +1,5 @@
 # Aluracord-concord
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
  
 @marioli99 
 
